@@ -1,0 +1,42 @@
+{
+  "astar": {
+    "path": [
+      "Karachi United",
+      "Mumbai City",
+      "Club Brugge",
+      "Brighton",
+      "Real Madrid"
+    ],
+    "total_cost": 51.0,
+    "nodes_expanded": 9,
+    "expansion_order": [
+      "Karachi United",
+      "Mumbai City",
+      "Al Hilal",
+      "Club Brugge",
+      "Ajax",
+      "Brighton",
+      "Borussia Dortmund",
+      "Manchester City",
+      "Real Madrid"
+    ]
+  },
+  "greedy_best_first": {
+    "path": [
+      "Karachi United",
+      "Al Hilal",
+      "Ajax",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "total_cost": 55.0,
+    "nodes_expanded": 5,
+    "expansion_order": [
+      "Karachi United",
+      "Al Hilal",
+      "Ajax",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ]
+  }
+}

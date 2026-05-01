@@ -1,0 +1,16 @@
+# Large files
+archive/*.xlsx
+archive.zip
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Test / cache
+.pytest_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
